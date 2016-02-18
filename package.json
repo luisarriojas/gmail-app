@@ -7,7 +7,7 @@
             "web": "http://www.luisarriojas.com"
         }
     ],
-    "description": "Evernote app for NW.js.",
+    "description": "Gmail app for NW.js.",
     "version": "1.0",
     "window": {
         "icon": "gmail.png",
